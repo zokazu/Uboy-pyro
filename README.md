@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">𝐙𝐚𝐢𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
+<p align="center">𝐙𝐨𝐤𝐚𝐳𝐮 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
 
 - A First Telegram Userbot Project With Multi Clients Based On PyroGram
 - Codes doesn't matter how many clients booted it's work separatly with every client! Faster af!
@@ -62,7 +62,7 @@ Watch Tutorial!
 
 <p align="center"><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20Multi%20Client-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ITZ-ZAID/ZAID-USERBOT/tree/master"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/zokazu/Uboy-pyro/tree/main"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 
 
