@@ -35,7 +35,7 @@ if not API_HASH:
 if ALIVE_IMG:
     ALIVE_PIC = ALIVE_IMG
 else: 
-    ALIVE_PIC = 'https://telegra.ph/file/077f0e0eb681938c6d85f.jpg'
+    ALIVE_PIC = 'https://telegra.ph/file/5939c7fa9a07ddbb87ca1.jpg'
 
 if MONGO_DB:
     MONGO_DB = MONGO_DB
@@ -457,5 +457,5 @@ if bot50:
 
 idle()
 
-print("🎉 Successfully Deployed 🎉 @Timesisnotwaiting")
-print("Enjoy! Do visit @Superiro_Bots")
+print("🎉 Successfully Deployed 🎉 @privateical")
+print("Enjoy! Do visit @bombleebas")
