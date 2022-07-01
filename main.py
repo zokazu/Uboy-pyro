@@ -75,7 +75,7 @@ MONGO_DBB = os.environ.get("MONGO_DB", None)
 if ALIVE_IMG:
     ALIVE_PIC = ALIVE_IMG
 else: 
-    ALIVE_PIC = 'https://telegra.ph/file/9563b48195f2f1c62cc5e.jpg'
+    ALIVE_PIC = 'https://telegra.ph/file/5939c7fa9a07ddbb87ca1.jpg'
 
 if MONGO_DBB:
     MONGO_DB = MONGO_DBB
@@ -544,8 +544,8 @@ if bot50:
     bot50.join_chat("Superior_Bots")
     bot50.join_chat("Superior_Support")
 
-print("🎉 Successfully Deployed 🎉 @Timesisnotwaiting")
-print("Enjoy! Do visit @Superiro_Bots")
+print("🎉 Successfully Deployed 🎉 @privateical")
+print("Enjoy! Do visit @bombleebas")
 
 idle()
 
